@@ -1,1 +1,1 @@
-plicación para conectar tu teléfono móvil con impresoras TPV y realizar impresiones de etiquetas de forma sencilla y rápida. Ideal para puntos de venta y entornos donde se requiere una gestión ágil de impresión desde dispositivos móviles
+Aplicación para conectar tu teléfono móvil con impresoras TPV y realizar impresiones de etiquetas de forma sencilla y rápida. Ideal para puntos de venta y entornos donde se requiere una gestión ágil de impresión desde dispositivos móviles
